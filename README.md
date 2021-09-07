@@ -1,5 +1,5 @@
 # Melanoma Classifier
-The SIIM-ISIC Melanoma Competition is a computer vision challenged in where medical imaging of skin lesions that hint at melanoma tumors are analyzed and determined whether they are malignant or benign. Training data of skin lesions are used to train computer vision models and are later used to evaluate the test data of more medical images. 
+The [SIIM-ISIC Melanoma Competition](https://www.kaggle.com/c/siim-isic-melanoma-classification/overview) is a computer vision challenged in where medical imaging of skin lesions that hint at melanoma tumors are analyzed and determined whether they are malignant or benign. Training data of skin lesions are used to train computer vision models and are later used to evaluate the test data of more medical images. 
 
 ![header (1)](https://user-images.githubusercontent.com/69808907/132391141-6cdc6216-27f3-4994-be63-f3eccc9cc00e.png)
 
